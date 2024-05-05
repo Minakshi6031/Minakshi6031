@@ -1,6 +1,6 @@
 - 👋 Hi i'm Minakshi Kumari.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React and JavaScript.
+- 🌱 I’m currently learning React and javascript.
 - 💞️ I’m looking to collaborate on Front end.
 - 📫 How to reach me kumarimeenakshi6031@gmail.com
 
